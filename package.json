@@ -1,0 +1,13 @@
+{
+  "name": "getaheadrealty-strategy",
+  "version": "1.0.0",
+  "description": "Exact copy of strategy.getaheadrealty.com.au",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve -p 3000 .",
+    "start": "serve -p 3000 ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
